@@ -3,7 +3,7 @@
 
 [link to dashboard](https://public.tableau.com/app/profile/melanie.taylor6095/viz/CityBikeData_16655489967290/Story2?publish=yes)
 
-#Overview 
+# Overview 
 
 The purpose of this analysis is to look at trends and key data points from the August bike rentals data set of NYC CitiBike to determine factors that can contribute to the success of a similar business model in Des Moines. I took into consideration Gender, Usertype, and location as the main factors that contribute to success and provide a path for further analysis.
 
@@ -11,7 +11,7 @@ Tools used
 - Jupyter notebook and Pandas for data cleaning and  conversions
 - Tableau for visualizations
 
-#Results 
+# Results 
 
 Top starting Location:
 The larger the circle the more times that was a starting location for a bike rental. 
@@ -44,7 +44,7 @@ The graph shows the number of trips by weekday, by user type, by subscribers ver
 ![](https://github.com/MellyCodes808/Bikesharing/blob/main/visualizations/user%20trips%20by%20weekday.png)
 
 
-#Summary 
+# Summary 
 
 Overall, we can see that bike rental in August of 2019 were very popular with over 2 million rentals in one month. With the majority of the rentals occur during the weekday around normal work and school commute times. This is important because predictable times lead to better bike placement and scheduled maintenance windows that allow to best serve customers. It is also interesting to note that the user demographic is largely subscriber-based loyal customers. There's a substantial amount of one-time users which provides the opportunity for them to convert to subscribers. Also, gender greatly skews toward male users, which provides a better understanding of target user types for marketing and product features in the future.
 
