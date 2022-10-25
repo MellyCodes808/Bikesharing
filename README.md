@@ -4,6 +4,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/melanie.taylor6095/viz/CityBikeData_16655489967290/Story2?publish=yes)
 
 #Overview 
+
 The purpose of this analysis is to look at trends and key data points from the August bike rentals data set of NYC CitiBike to determine factors that can contribute to the success of a similar business model in Des Moines. I took into consideration Gender, Usertype, and location as the main factors that contribute to success and provide a path for further analysis.
 
 Tools used
@@ -11,6 +12,7 @@ Tools used
 - Tableau for visualizations
 
 #Results 
+
 Top starting Location:
 The larger the circle the more times that was a starting location for a bike rental. 
 ![](https://github.com/MellyCodes808/Bikesharing/blob/main/visualizations/nyc.png
